@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/valikobird/notes-node#readme",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "yargs": "^8.0.2"
   }
 }
